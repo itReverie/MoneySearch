@@ -1,0 +1,7 @@
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\bin\Debug\MoneySearchDB.mdf
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\bin\Debug\MoneySearchDB_log.ldf
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\bin\Debug\MoneySearchEntities.dll.config
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\bin\Debug\MoneySearchEntities.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\bin\Debug\MoneySearchEntities.pdb
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\obj\Debug\MoneySearchEntities.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchEntities\obj\Debug\MoneySearchEntities.pdb

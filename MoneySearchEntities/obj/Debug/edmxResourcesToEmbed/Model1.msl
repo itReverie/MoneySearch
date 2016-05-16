@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MoneySearchDBModelStoreContainer" CdmEntityContainer="MoneySearchDBEntities1">
+    <EntitySetMapping Name="Moneys">
+      <EntityTypeMapping TypeName="MoneySearchDBModel.Money">
+        <MappingFragment StoreEntitySet="Money">
+          <ScalarProperty Name="moneyType" ColumnName="moneyType" />
+          <ScalarProperty Name="moneyId" ColumnName="moneyId" />
+          <ScalarProperty Name="moneyValue" ColumnName="moneyValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MoneySearches">
+      <EntityTypeMapping TypeName="MoneySearchDBModel.MoneySearch">
+        <MappingFragment StoreEntitySet="MoneySearches">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="searchId" ColumnName="searchId" />
+          <ScalarProperty Name="moneyId" ColumnName="moneyId" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="getSearches" FunctionName="MoneySearchDBModel.Store.getSearches">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MoneySearchDBModel.getSearches_Result">
+          <ScalarProperty Name="searchId" ColumnName="searchId" />
+          <ScalarProperty Name="moneyId" ColumnName="moneyId" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

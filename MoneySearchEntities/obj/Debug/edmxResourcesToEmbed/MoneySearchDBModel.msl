@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MoneySearchDBModel1StoreContainer" CdmEntityContainer="MoneySearchDBEntities1">
+    <EntitySetMapping Name="Money">
+      <EntityTypeMapping TypeName="MoneySearchDBModel1.Money">
+        <MappingFragment StoreEntitySet="Money">
+          <ScalarProperty Name="moneyId" ColumnName="moneyId" />
+          <ScalarProperty Name="moneyValue" ColumnName="moneyValue" />
+          <ScalarProperty Name="moneyType" ColumnName="moneyType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MoneySearches">
+      <EntityTypeMapping TypeName="MoneySearchDBModel1.MoneySearches">
+        <MappingFragment StoreEntitySet="MoneySearches">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="searchId" ColumnName="searchId" />
+          <ScalarProperty Name="moneyId" ColumnName="moneyId" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
