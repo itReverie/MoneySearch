@@ -1,0 +1,16 @@
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\obj\Debug\MoneySearchUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchUnitTest.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchUnitTest.pdb
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchControllers.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchEntities.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchControllers.pdb
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchEntities.pdb
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\obj\Debug\MoneySearchUnitTest.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\obj\Debug\MoneySearchUnitTest.pdb
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchUnitTest.dll.config
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchDB.mdf
+C:\Users\Brenda\Desktop\MoneySearch\MoneySearchUnitTest\bin\Debug\MoneySearchDB_log.ldf
