@@ -3,17 +3,17 @@
 Program that converts numbers into coins and bills.For example:
 
 Available Bills: 
--£50, £20, £10, £5
+- £50, £20, £10, £5
 Availabel coins: 
--£2, £1, 
--50p, 20p, 10p, 5p, 2p, 1p
+- £2, £1, 
+- 50p, 20p, 10p, 5p, 2p, 1p
 
-Input: £155.55
+Input: **£155.55**
 Output: 
--£50 - 3 bills
--£5  - 1 bills
--50p - 1 bills
--5p  - 1 bills
+- £50 - 3 bills
+- £5  - 1 bills
+- 50p - 1 bills
+- 5p  - 1 bills
 
 NOTE. This example is done with English currency, to CHANGE THE CURRENCY just change the list of currency and the table currency with your values.
 
